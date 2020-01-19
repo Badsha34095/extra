@@ -1,0 +1,99 @@
+*{
+	margin: 0;	padding: 0;
+}
+body{
+	text-align:center;	text-transform: capitalize; color:white;
+}
+.content{
+	overflow: hidden;
+	margin-bottom: 5px;
+}
+.logo{
+	background-color: lime;
+	height: 100px;
+	width: 25%;
+	margin-right: 5px;
+	float: left;
+}
+.banner{
+	background-color: green;
+	height: 100px;
+	width: 74%;
+	float:right;
+}
+.header{
+	background-color: darkblue;
+	height: 100px;
+	margin-bottom: 5px;
+}
+.nav-bar{
+	background-color: maroon;
+	height: 400px;
+	width: 25%;
+	margin-right: 15px;
+	float: left;
+}
+.main-bar{
+	background-color: olive;
+	height: 400px;
+	width: 48%;
+	margin-right: 5px;
+	float: left;
+}
+.asaid-bar{
+	background-color: silver;
+	height: 400px;
+	width: 25%;
+	float: right;
+}
+.footer{
+	background-color: blue;
+	height: 100px;
+}
+.asaid-up{
+	background-color: gray;
+	height: 128px;
+	margin-bottom: 2px;
+}
+.asaid-up-left{
+	background-color: gray;
+	height: 127px;
+	width: 49%;
+	float: left;
+	margin-bottom: 2px;
+}
+.asaid-up-left-left{
+	background-color: red;
+	height: 62px;
+	width: 49%;
+	float: left;
+}
+.asaid-up-left-right{
+	background-color: lightblue;
+	height: 62px;
+	width: 49%;
+	float: right;
+}
+.asaid-up-left-down{
+	background-color: purple;
+	height: 60px;
+	width: 100%;
+}
+.new{
+	overflow: hidden; margin-bottom: 2px;
+}
+.asaid-up-right{
+	background-color: magenta;
+	height: 127px;
+	width: 49%;
+	float: right;
+	margin-bottom: 2px;
+}
+.asaid-center{
+	background-color: brown;
+	height: 128px;
+	margin-bottom: 2px;
+}
+.asaid-down{
+	background-color: orange;	height: 138px;
+}
